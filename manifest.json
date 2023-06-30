@@ -1,6 +1,4 @@
 {
- "name": "Aconchego dos Passaros",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#0C3327",
+ "name": "Aconchego dos Passaros",
+ "background_color": "#0C3327",
+ "display": "fullscreen",
  "start_url": "index.htm",
- "background_color": "#0C3327"
+ "theme_color": "#0C3327"
 }
