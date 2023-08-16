@@ -1,4 +1,8 @@
 {
+ "start_url": "index.htm",
+ "name": "Aconchego dos Passaros",
+ "display": "fullscreen",
+ "background_color": "#0C3327",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Aconchego dos Passaros",
- "background_color": "#0C3327",
- "display": "fullscreen",
- "start_url": "index.htm",
  "theme_color": "#0C3327"
 }
